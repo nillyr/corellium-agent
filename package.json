@@ -1,0 +1,26 @@
+{
+    "name": "corellium-agent",
+    "version": "1.0.0",
+    "description": "Agent to turn off all the devices of the different instances",
+    "private": true,
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "agent": "node index.js"
+    },
+    "keywords": [
+        "corellium",
+        "agent",
+        "shutdown"
+    ],
+    "author": "Nicolas GRELLETY",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Nillyr/corellium-agent"
+    },
+    "dependencies": {
+        "@corellium/corellium-api": "^1.1.1",
+        "dotenv": "^10.0.0"
+    }
+}
