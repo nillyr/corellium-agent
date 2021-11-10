@@ -4,6 +4,8 @@ This script is developed in order to turn off the different instances left on.
 
 ## Prerequisites
 
+- node
+- npm
 - Create a user who can access the different projects
 - Create `.env` file with the following data (template)
 
@@ -14,6 +16,18 @@ CORELLIUM_AGENT_PASSWORD=FIXME
 ```
 
 - Optionnal: Create a cron job
+
+## Installation
+
+```bash
+npm install
+```
+
+## Quick usage
+
+```bash
+npm run agent
+```
 
 ## Maintainer
 
