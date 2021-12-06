@@ -15,7 +15,7 @@ CORELLIUM_AGENT_USERNAME=FIXME
 CORELLIUM_AGENT_PASSWORD=FIXME
 ```
 
-- Optionnal: Create a cron job
+- Optionnal: Create a cron job / pipeline
 
 ## Installation
 
