@@ -39,6 +39,6 @@ npm run agent
 
 ## Copyright and license
 
-Copyright (c) 2021 Nicolas GRELLETY
+Copyright (c) 2021-2022 Nicolas GRELLETY
 
 This software is licensed under MIT license. See `LICENSE` file in the root folder of the project.
